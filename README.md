@@ -31,7 +31,7 @@ Sou estudante de **Engenharia de Software** no Ibmec-RJ, com experiências prát
 - Imersão no **Vale do Silício** com foco em **Inteligência Artificial aplicada ao mercado**.
 - Iniciativas sociais e voluntariado, promovendo impacto comunitário e desenvolvimento de soft skills.
 
-Veja meus repositórios: [github.com/brnpessoa14](https://github.com/brnpessoa14)
+Veja meus repositórios: [github.com/brnpessoa14](https://github.com/brnpessoa14?tab=repositories)
 
 ---
 
