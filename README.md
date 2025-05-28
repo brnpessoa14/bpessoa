@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Bruno Carvalho Pessoa
+# Olá! Eu sou o Bruno Carvalho Pessoa
 
-🎯 Estudante de Engenharia de Software apaixonado por desenvolvimento **Full Stack**, com forte interesse em **Back-end**, **Data Analysis** e tecnologias que impulsionam inovação.
+Estudante de Engenharia de Software apaixonado por desenvolvimento **Full Stack**, com forte interesse em **Back-end**, **Data Analysis** e tecnologias que impulsionam inovação.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 💼 Sobre
+## Sobre
 
 Atualmente curso **Engenharia de Software** no Ibmec-RJ. Tenho me aprofundado em:
 
@@ -31,11 +31,11 @@ Atualmente curso **Engenharia de Software** no Ibmec-RJ. Tenho me aprofundado em
 - Participação em **imersão no Vale do Silício** com foco em **Inteligência Artificial aplicada ao mercado**.
 - Iniciativas sociais e voluntariado como forma de desenvolvimento humano e colaboração.
 
-📁 Veja meus repositórios: [github.com/brnpessoa14](https://github.com/brnpessoa14)
+Veja meus repositórios: [github.com/brnpessoa14](https://github.com/brnpessoa14)
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="left">
 
