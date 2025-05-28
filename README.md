@@ -2,10 +2,6 @@
 
 🎯 Estudante de Engenharia de Software apaixonado por desenvolvimento **Full Stack**, com forte interesse em **Back-end**, **Data Analysis** e tecnologias que impulsionam inovação.
 
-📍 Rio de Janeiro - RJ | 💼 Aberto a oportunidades e projetos desafiadores.
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
@@ -45,3 +41,5 @@ Atualmente curso **Engenharia de Software** no Ibmec-RJ. Tenho me aprofundado em
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brn.crpa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-carvalho-pessoa/)
+
+</div>
