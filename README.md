@@ -1,6 +1,6 @@
 # Olá! Eu sou o Bruno Carvalho Pessoa
 
-Estudante de Engenharia de Software apaixonado por desenvolvimento **Full Stack**, com forte interesse em **Back-end**, **Data Analysis** e tecnologias que impulsionam inovação.
+Estudante de Engenharia de Software apaixonado e focado em desenvolvimento **Full Stack**, com forte interesse em **Back-end**, **Data Analysis** e tecnologias que impulsionam inovação.
 
 ## Tecnologias e Ferramentas
 
@@ -23,13 +23,13 @@ Estudante de Engenharia de Software apaixonado por desenvolvimento **Full Stack*
 
 ## Sobre
 
-Atualmente curso **Engenharia de Software** no Ibmec-RJ. Tenho me aprofundado em:
+Sou estudante de **Engenharia de Software** no Ibmec-RJ, com experiências práticas em:
 
-- Desenvolvimento **Full Stack** com foco em boas práticas.
-- Projetos usando **Python, SQL, HTML/CSS, JS/TS**.
-- Desafios como o **Apple Swift Student Challenge**.
-- Participação em **imersão no Vale do Silício** com foco em **Inteligência Artificial aplicada ao mercado**.
-- Iniciativas sociais e voluntariado como forma de desenvolvimento humano e colaboração.
+- Desenvolvimento **Full Stack**, aplicando boas práticas de código.
+- Projetos acadêmicos com **Python, SQL, HTML, CSS, JavaScript e TypeScript**.
+- Participação no **Apple Swift Student Challenge**, com um app voltado à alfabetização tecnológica.
+- Imersão no **Vale do Silício** com foco em **Inteligência Artificial aplicada ao mercado**.
+- Iniciativas sociais e voluntariado, promovendo impacto comunitário e desenvolvimento de soft skills.
 
 Veja meus repositórios: [github.com/brnpessoa14](https://github.com/brnpessoa14)
 
